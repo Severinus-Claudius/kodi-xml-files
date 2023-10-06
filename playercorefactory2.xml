@@ -14,4 +14,8 @@
             <playcountminimumtime>120</playcountminimumtime>
         </player>
     </players>
+    <rules action="prepend">
+         <rule video="true" player="Just Player">
+         </rule>
+     </rules>
 </playercorefactory>
